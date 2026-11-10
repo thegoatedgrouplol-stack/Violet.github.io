@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.parcel-cache/
+yarn-error.log
+.DS_Store
+apps_out/
+src/assets/apps_data/
+src/assets/mockevents.json
+src/assets/mockrepos.json
+src/.DS_Store
+src/assets/.DS_Store
