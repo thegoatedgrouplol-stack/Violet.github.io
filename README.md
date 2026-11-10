@@ -1,6 +1,6 @@
-# SideStore Website
+# Violet Portal
 
-_The primary user-facing website for SideStore, (re)designed by @f1shy-dev_
+_The user-facing website for Violet
 
 [![Deploy to Github Pages](https://github.com/SideStore/sidestore.github.io/actions/workflows/deploy-site.yml/badge.svg)](https://github.com/SideStore/sidestore.github.io/actions/workflows/deploy-site.yml)
 
